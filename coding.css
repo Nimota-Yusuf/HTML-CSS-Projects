@@ -1,0 +1,52 @@
+*{ 
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+nav{
+    height: 100vh;
+    text-align: center;
+    list-style: none;
+    width: 100vw;
+    background-image: url(/Photos/pexels-alexandra-maria-318236.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+nav h3{
+    font-size: 3rem;
+    margin-top: 10px;
+}
+.first-div{
+    margin-top: 40px;
+    font-size: 3rem;
+    margin-bottom: 20px;
+    min-width: 100px;
+    color: rgb(140, 6, 6);
+    font-weight: 600;
+}
+.second-div{
+    height: 50px;
+    padding: 6px;
+    font-size: 2rem;
+    font-weight: 650;
+    color: #f23921;
+}
+ nav p.small-text {
+    margin-top: 0px;
+   color: rgb(107, 80, 244);
+    font-size: 1rem;
+}
+#email{
+    width: 300px;
+    height: 27px;
+    padding: 6px;
+    font-size: 15px;
+    margin: 20px auto;
+}
+#button{
+    width: 123px;
+    height: 27px;
+    padding: 6px;
+    font-size: 15px;
+    margin: 20px auto;
+}
